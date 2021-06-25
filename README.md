@@ -1,2 +1,2 @@
 # javascript-and-react
-A bootcamp project learned from 7 days training of web dev with javascript and react.js
+A bootcamp from Shape AI on web dev with javascript and react.js
